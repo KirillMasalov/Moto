@@ -1,0 +1,49 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Кирилл\\DotnetProjects\\Moto\\wwwroot\\uploads\\motorcycles\\images_638515661030476511.jpg",
+      "PackagePath": "staticwebassets\\uploads\\motorcycles\\images_638515661030476511.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Кирилл\\DotnetProjects\\Moto\\wwwroot\\uploads\\motorcycles\\images_638515670399890097.jpg",
+      "PackagePath": "staticwebassets\\uploads\\motorcycles\\images_638515670399890097.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Кирилл\\DotnetProjects\\Moto\\wwwroot\\uploads\\motorcycles\\images_638515670610458618.jpg",
+      "PackagePath": "staticwebassets\\uploads\\motorcycles\\images_638515670610458618.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Кирилл\\DotnetProjects\\Moto\\wwwroot\\uploads\\motorcycles\\img29_638505490171037801.jpg",
+      "PackagePath": "staticwebassets\\uploads\\motorcycles\\img29_638505490171037801.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Кирилл\\DotnetProjects\\Moto\\wwwroot\\uploads\\motorcycles\\img36_638504397950363274.jpg",
+      "PackagePath": "staticwebassets\\uploads\\motorcycles\\img36_638504397950363274.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Кирилл\\DotnetProjects\\Moto\\wwwroot\\uploads\\motorcycles\\img49_638508774265420009.jpg",
+      "PackagePath": "staticwebassets\\uploads\\motorcycles\\img49_638508774265420009.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Кирилл\\DotnetProjects\\Moto\\wwwroot\\uploads\\motorcycles\\img4_638508776713181880.jpg",
+      "PackagePath": "staticwebassets\\uploads\\motorcycles\\img4_638508776713181880.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Moto.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Moto.props",
+      "PackagePath": "build\\Moto.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Moto.props",
+      "PackagePath": "buildMultiTargeting\\Moto.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Moto.props",
+      "PackagePath": "buildTransitive\\Moto.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
